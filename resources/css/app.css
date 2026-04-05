@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Custom Styles */
+:root {
+    --primary: #6f4e37;
+    --primary-dark: #5a4030;
+    --secondary: #f4e4
+}
